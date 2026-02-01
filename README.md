@@ -58,4 +58,8 @@ imersao_alura_dados_2026/
 
 ---
 
+- 📊 Dashboard no Streamlit: https://imersao-alura-python-2026-ayryslaine.streamlit.app/
+
+---
+
 📌 Projeto desenvolvido para fins educacionais durante a Imersão de Dados com Python 2026 da Alura.
